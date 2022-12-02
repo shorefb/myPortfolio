@@ -28,12 +28,10 @@ const Works = () => {
               id="bootlegger"
               title="Bootleg Party"
               thumbnail={bootlegger}
+              href="https://bootleg-party.herokuapp.com/"
             >
               An ode to nostaglic gaming with friends!
             </WorkGridItem>
-            <Link href="https://bootleg-party.herokuapp.com/">
-              Project Link
-            </Link>
           </Section>
           <Section>
             <WorkGridItem
