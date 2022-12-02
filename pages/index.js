@@ -31,7 +31,7 @@ const Page = () => {
           align="center"
           mb={6}
         >
-          Hello, I'm a full-stack developer based in Florida!
+          Hello, I&lsquo;m a full-stack developer based in Florida!
         </Box>
 
         <Box display={{ md: 'flex' }}>
