@@ -31,7 +31,7 @@ const Page = () => {
           align="center"
           mb={6}
         >
-          Hello, I&lsquo;m a full-stack developer based in Florida!
+          Hello, I&lsquo;m a full stack developer based in Florida!
         </Box>
 
         <Box display={{ md: 'flex' }}>
@@ -64,8 +64,8 @@ const Page = () => {
             Work
           </Heading>
           <Paragraph>
-            Reid is a full-stack developer based in South Florida with a passion
-            for building unique digital experiences. He
+            Reid is a full stack developer based in South Florida with a passion
+            for building unique digital experiences.
           </Paragraph>
           <Box align="center" my={4}>
             <NextLink href="/works">
